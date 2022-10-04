@@ -2,19 +2,19 @@
 React Notes app. Practice for React and usingg <a href="https://mui.com/material-ui/icons/">Material UI</a>.
 
 Home Page
-<img src="screenshot/Home.png">
+<img src="screenshots/Home.png">
 
 <br>
 
 Clicking the Note opens up Note prompt.
-<img src="screenshot/Create-Note.png">
+<img src="screenshots/Create-Note.png">
 
 <br>
 
 Hitting the Add button adds to the Note List
-<img src="screenshot/Note-List.png">
+<img src="screenshots/Note-List.png">
 
 <br>
 
 Clicking the trash button deletes from the Note List
-<img src="screenshot/Delete.png">
+<img src="screenshots/Delete.png">
