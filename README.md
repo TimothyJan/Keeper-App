@@ -1,8 +1,8 @@
 # Keeper-App
-React Notes app. Practice for React and usingg <a href="https://mui.com/material-ui/icons/">Material UI</a>.
+React Notes app. Practice for React and using <a href="https://mui.com/material-ui/icons/">Material UI</a>.
 
 Home Page
-<img src="https://github.com/TimothyJan/Keeper-App/tree/main/screenshots/Homoe.png?raw=true">
+<img src="https://github.com/TimothyJan/Keeper-App/tree/main/screenshots/Home.png?raw=true">
 
 <br>
 
