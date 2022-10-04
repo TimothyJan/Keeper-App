@@ -7,14 +7,14 @@ Home Page
 <br>
 
 Clicking the Note opens up Note prompt.
-<img src="screenshots/Create-Note.png">
+<img src="https://raw.githubusercontent.com/TimothyJan/Keeper-App/main/sceenshots/Create-Note.png">
 
 <br>
 
 Hitting the Add button adds to the Note List
-<img src="screenshots/Note-List.png">
+<img src="https://raw.githubusercontent.com/TimothyJan/Keeper-App/main/sceenshots/Note-List.png">
 
 <br>
 
 Clicking the trash button deletes from the Note List
-<img src="screenshots/Delete.png">
+<img src="https://raw.githubusercontent.com/TimothyJan/Keeper-App/main/sceenshots/Delete.png">
